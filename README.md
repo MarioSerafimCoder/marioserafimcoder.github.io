@@ -4,4 +4,7 @@ Aqui será meu primeiro site, feito com Html, CSS e talvez Javascript e hospedad
 ## Acessando o Site
 Para ter acesso a esse site entre em <https://dcfs44.git.io>
 
+**Obs** hospedado no github
 
+## Acessando o Site
+Para ter acesso a esse site entre em <https://dcfs44.github.io>
